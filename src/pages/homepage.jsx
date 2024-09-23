@@ -100,7 +100,7 @@ const Homepage = () => {
 								</div>
 								
 								<a
-									href="https://drive.google.com/file/d/1Tk25JScwwoUoc7YboFVCaK9H0_5268mj/view?usp=sharing"
+									href="https://drive.google.com/file/d/1tiysFQsmi3DWMQsCw-lf4wN9jYNruID3/view?usp=sharing"
 									className="resume-download-button"
 									download
 								>

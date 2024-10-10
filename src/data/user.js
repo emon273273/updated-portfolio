@@ -2,7 +2,7 @@ const INFO = {
 	main: {
 		title: "Reactfolio by Md Emon Hossain",
 		name: "Md Emon Hossain",
-		email: "emon.cse273@gmail.com", 
+		email: "emon.cse273@gmail.com",
 		logo: "../emon2.jpg",
 	},
 
@@ -35,20 +35,21 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Waste management Application",
+			title: "AI-Powered Mock Interview Application Full-Stack Implementation with Next.js, Drizzle ORM, and Gemini AI",
 			description:
-				"I recently created a project that allowed me to master key aspects of Next.js 14 and full-stack development. Through this project, I gained hands-on experience with integrating AI (Google's Gemini AI), implementing TypeScript in Next.js, managing state with React hooks, and building responsive designs using Tailwind CSS. I also worked with Web3Auth for authentication, Drizzle ORM for database integration, and successfully deployed the project.",
+				"I have been working on a Full Stack AI Mock Interview App, where I implemented social and email/password authentication using Clerk. The UI is designed with Tailwind CSS and ShadCN components. For form handling, I used React Hook Form with Zod validation. I set up PostgreSQL as the database with Drizzle ORM and wrote queries using Drizzle. Additionally, I integrated Google's Gemini API to generate AI-powered forms and interview questions. The app also records user responses through the web and microphone, converting speech to text for further analysis.",
 			logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0_yhGEmhIF8QjL7poBJqowjSlIw0kKKOJA&s",
 			linkText: "View Project",
-			link: "https://github.com/emon273273/waste-management-webapplication",
+			link: "https://github.com/emon273273/Mock-interview-preparation-",
 		},
-	
+
 		{
 			title: "Teambody-Sculpt",
 			description:
 				"I contributed to the Teambody-Sculpt private repository based  project, focusing on key sections such as the product page, article page, and various dashboard components (appeal, supplement, article, and post management). For this project, I utilized the ShadCN component library to create consistent and responsive UI elements and employed React Hook Form for efficient form handling and validation. This contribution helped enhance both the frontend experience and the overall functionality of the platform.",
 			logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0_yhGEmhIF8QjL7poBJqowjSlIw0kKKOJA&s",
-			
+			linkText: "View Project",
+			link: "https://gym-app-one-eta.vercel.app/",
 		},
 
 		{
@@ -77,8 +78,6 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/emon273273/online-restaurant-management-system-for-local-area",
 		},
-
-		
 	],
 };
 
